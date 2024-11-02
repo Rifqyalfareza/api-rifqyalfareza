@@ -1,3 +1,2 @@
-Flash==2.1.1
-Flash-RESTful==0.3.9
-werkzueg==2.1.1
+Flask==2.3.3
+flask-restful==0.3.9
